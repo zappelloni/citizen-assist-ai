@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF pela primeira vez",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "inscricao no cpf",
+      "cadastro de pessoa fisica",
+      "primeiro cpf"
+    ],
+    "resposta": "A inscrição no CPF é gratuita. Pode ser pedida pela internet, no site da Receita Federal, ou presencialmente em agências conveniadas (Correios, Banco do Brasil, Caixa), que podem cobrar uma pequena taxa.",
+    "documentos": [
+      "Documento de identidade com foto ou certidão de nascimento",
+      "Título de eleitor (se tiver entre 18 e 70 anos)"
+    ],
+    "onde": "Site da Receita Federal (gov.br/receitafederal) ou agências dos Correios, Banco do Brasil e Caixa",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Emitir a Carteira de Identidade Nacional (CIN)",
+    "palavras_chave": [
+      "rg",
+      "identidade",
+      "carteira de identidade",
+      "cin",
+      "documento com foto"
+    ],
+    "resposta": "A nova Carteira de Identidade Nacional usa o número do CPF. A primeira via é gratuita e é emitida pelo órgão de identificação do seu estado (em São Paulo, pelo Poupatempo). Normalmente é preciso agendar.",
+    "documentos": [
+      "Certidão de nascimento ou casamento",
+      "CPF"
+    ],
+    "onde": "Órgão de identificação do seu estado (em SP: Poupatempo, com agendamento)",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-nacional",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Tirar o título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo",
+      "eleitor",
+      "votar",
+      "alistamento eleitoral",
+      "autoatendimento eleitoral"
+    ],
+    "resposta": "O primeiro título pode ser pedido pela internet, no autoatendimento do TSE, ou no cartório eleitoral. É possível tirar a partir dos 15 anos (votando aos 16). O voto é obrigatório dos 18 aos 70 anos.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Comprovante de residência",
+      "Selfie segurando o documento (no pedido pela internet)"
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE (tse.jus.br) ou cartório eleitoral",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Criar conta gov.br",
+    "palavras_chave": [
+      "gov br",
+      "govbr",
+      "conta gov",
+      "login gov",
+      "senha gov"
+    ],
+    "resposta": "A conta gov.br é gratuita e dá acesso a vários serviços do governo, como a Carteira de Trabalho Digital. Crie pelo site ou pelo aplicativo gov.br usando o CPF. Contas prata ou ouro (validadas por banco ou biometria) liberam mais serviços.",
+    "documentos": [
+      "CPF",
+      "Celular ou e-mail próprio para receber o código"
+    ],
+    "onde": "Site acesso.gov.br ou aplicativo gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov.br",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Ter a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "carteira digital",
+      "ctps",
+      "carteira de trabalho digital",
+      "registro em carteira"
+    ],
+    "resposta": "A Carteira de Trabalho agora é digital e não precisa ser emitida: basta baixar o aplicativo Carteira de Trabalho Digital e entrar com a conta gov.br. O número dela é o próprio CPF.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital (Android e iPhone) ou site gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Ser Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendiz",
+      "menor aprendiz",
+      "aprendizagem",
+      "primeiro emprego"
+    ],
+    "resposta": "O Jovem Aprendiz é para quem tem de 14 a 24 anos e está estudando ou já concluiu o ensino médio. O contrato é registrado em carteira, dura até 2 anos e junta trabalho com um curso de formação. Procure vagas em empresas e em entidades de aprendizagem (como SENAI, SENAC e CIEE).",
+    "documentos": [
+      "CPF",
+      "Documento com foto",
+      "Comprovante de matrícula escolar (se ainda estuda)"
+    ],
+    "onde": "Empresas, entidades de aprendizagem e o Portal Emprega Brasil",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Regras do estágio",
+    "palavras_chave": [
+      "estagio",
+      "estagiario",
+      "bolsa estagio",
+      "termo de compromisso",
+      "horas de estagio"
+    ],
+    "resposta": "O estágio não é emprego com carteira assinada. Ele exige um termo de compromisso entre você, a empresa e a escola. A jornada vai até 6 horas por dia (30 por semana) para ensino superior e médio, e quem estagia 1 ano tem direito a 30 dias de recesso.",
+    "documentos": [
+      "Comprovante de matrícula",
+      "Termo de compromisso de estágio",
+      "CPF"
+    ],
+    "onde": "Setor de estágios da sua escola ou faculdade e agentes de integração (ex.: CIEE)",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vagas de emprego no SINE",
+    "palavras_chave": [
+      "vaga",
+      "vagas",
+      "emprego",
+      "sine",
+      "procurar trabalho",
+      "emprega brasil",
+      "curriculo"
+    ],
+    "resposta": "O SINE divulga vagas de emprego de graça. Você pode se cadastrar e ver vagas pelo aplicativo Carteira de Trabalho Digital ou pelo Portal Emprega Brasil, ou ir a um posto do SINE (em SP também nos postos do PAT).",
+    "documentos": [
+      "CPF",
+      "Conta gov.br",
+      "Currículo (opcional)"
+    ],
+    "onde": "App Carteira de Trabalho Digital, Portal Emprega Brasil ou posto do SINE da sua cidade",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/sine",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos do trabalhador",
+    "titulo": "Consultar o número do PIS",
+    "palavras_chave": [
+      "pis",
+      "numero do pis",
+      "nis",
+      "pasep",
+      "nit"
+    ],
+    "resposta": "O número do PIS/NIS aparece no aplicativo Carteira de Trabalho Digital, na parte de dados pessoais. Quem nunca trabalhou com carteira assinada pode não ter PIS ainda: ele é cadastrado pelo empregador no primeiro emprego.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou agência da Caixa",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos do trabalhador",
+    "titulo": "Pedir o seguro-desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "demitido",
+      "fui demitido",
+      "demissao"
+    ],
+    "resposta": "Quem foi demitido sem justa causa pode ter direito ao seguro-desemprego, desde que cumpra o tempo mínimo de trabalho exigido. O pedido é feito pelo aplicativo Carteira de Trabalho Digital ou pelo gov.br, usando a guia que a empresa entrega na demissão.",
+    "documentos": [
+      "CPF",
+      "Número do requerimento do seguro-desemprego (entregue pela empresa)",
+      "Conta gov.br"
+    ],
+    "onde": "App Carteira de Trabalho Digital, site gov.br ou posto do SINE",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 11,
+    "categoria": "Direitos do trabalhador",
+    "titulo": "Direitos básicos de quem tem carteira assinada",
+    "palavras_chave": [
+      "direitos",
+      "ferias",
+      "decimo terceiro",
+      "13 salario",
+      "fgts",
+      "salario minimo"
+    ],
+    "resposta": "Quem trabalha com carteira assinada tem direito, entre outros, a pelo menos um salário mínimo, 13º salário, férias de 30 dias com 1/3 a mais, depósitos de FGTS e descanso semanal remunerado.",
+    "documentos": [
+      "Carteira de Trabalho Digital",
+      "Contracheque (holerite)"
+    ],
+    "onde": "Em caso de dúvida ou problema: Superintendência Regional do Trabalho ou sindicato da categoria",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 12,
+    "categoria": "Documentos",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": [
+      "alistamento",
+      "alistamento militar",
+      "servico militar",
+      "reservista",
+      "exercito"
+    ],
+    "resposta": "Todo homem deve se alistar no ano em que completa 18 anos, de janeiro até o último dia útil de junho. O alistamento pode ser feito pela internet. Depois você acompanha as próximas etapas pelo mesmo site.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF",
+      "Comprovante de residência"
+    ],
+    "onde": "Site alistamento.eb.mil.br ou Junta de Serviço Militar da sua cidade",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 13,
+    "categoria": "Trabalho",
+    "titulo": "Abrir um CNPJ como MEI (Microempreendedor Individual)",
+    "palavras_chave": [
+      "cnpj",
+      "mei",
+      "microempreendedor",
+      "abrir empresa",
+      "trabalhar por conta"
+    ],
+    "resposta": "Quem quer trabalhar por conta própria pode se formalizar como MEI e ganhar um CNPJ. A abertura é gratuita e feita pela internet, no Portal do Empreendedor, com a conta gov.br (nível prata ou ouro). Cuidado com sites que cobram para abrir o MEI: o caminho oficial não cobra nada.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br nível prata ou ouro",
+      "Endereço de onde a atividade será feita"
+    ],
+    "onde": "Portal do Empreendedor (gov.br/mei)",
+    "fonte": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+    "verificado_em": "2026-11-09"
+  }
+]
