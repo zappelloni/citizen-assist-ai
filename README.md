@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34596561/README.md)
+[README.md](https://github.com/user-attachments/files/34596666/README.md)
 # Citizen Assist AI – Primeiro Emprego
 
 Assistente de terminal, feito em Python, que orienta **jovens que estão procurando o primeiro emprego** sobre documentos, trabalho e direitos básicos, sempre mostrando a fonte oficial, a data de verificação e o aviso de que não é um canal oficial.
@@ -10,6 +10,8 @@ Global Solution 2026.2 – Pensamento Computacional e Automação com Python (FI
 | Nome | RM |
 |---|---|
 | Gabriel Rodrigues Zappelloni | 572060 |
+| Felipe Pereira Restivo | 570712 |
+| Maykon de Lima Silva | 574022 |
 
 ## Público e problema
 
@@ -137,7 +139,7 @@ Todas as orientações foram conferidas em 09/11/2026:
 
 ## Resultado do teste com usuários
 
-Teste feito em 09/11/2026 com **3 pessoas de fora da equipe**, somando **14 atendimentos** (5 por pergunta em texto livre e 9 pela navegação por categorias). Nenhum nome ou dado pessoal foi registrado. Os números abaixo são os da opção 3 do menu (Indicadores), calculados a partir de `data/historico.json` e `data/avaliacoes.json`.
+Teste feito em 09/11/2026 com **3 pessoas de fora da equipe**, somando **14 atendimentos** (4 por pergunta em texto livre e 10 pela navegação por categorias). Nenhum nome ou dado pessoal foi registrado. Os números abaixo são os da opção 3 do menu (Indicadores), calculados a partir de `data/historico.json` e `data/avaliacoes.json`.
 
 | Indicador | Resultado |
 |---|---|
@@ -153,7 +155,7 @@ Teste feito em 09/11/2026 com **3 pessoas de fora da equipe**, somando **14 aten
 - "como eu faço um suco de laranja": fora do tema do assistente, o "não encontrei" foi o comportamento correto.
 - "como faço pra tirar um cnpj": dúvida real do público que não estava na base.
 
-**Melhoria feita a partir do teste:** foi criada a orientação 13, "Abrir um CNPJ como MEI", na categoria Trabalho, com as palavras-chave `cnpj`, `mei`, `microempreendedor`, `abrir empresa` e `trabalhar por conta`. A mesma pergunta, que antes não era encontrada, agora recebe 5 pontos (confiança MÉDIA) e mostra a orientação certa.
+**Melhoria feita a partir do teste:** foi criada a orientação 13, "Abrir um CNPJ como MEI", na categoria Trabalho, com as palavras-chave `cnpj`, `mei`, `microempreendedor`, `abrir empresa` e `trabalhar por conta`. A mesma pergunta, que antes não era encontrada, agora recebe 5 pontos (confiança MÉDIA) e mostra a orientação certa. No vídeo, a equipe também adicionou ao vivo a palavra-chave `curriculo` na orientação 8 (SINE).
 
 **Observação:** a navegação por categorias foi o caminho mais usado e o mais rápido. Nas perguntas em texto livre, o tempo foi maior porque a pessoa precisa pensar em como escrever a dúvida.
 
