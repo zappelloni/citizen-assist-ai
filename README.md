@@ -168,4 +168,4 @@ Teste feito em 09/11/2026 com **3 pessoas de fora da equipe**, somando **14 aten
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): _PREENCHER_
+Link (YouTube, não listado):(https://youtu.be/DKIdrAa9U8A?si=xwbXtMW8lfsGnacF)
