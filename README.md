@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34596666/README.md)
+
 # Citizen Assist AI – Primeiro Emprego
 
 Assistente de terminal, feito em Python, que orienta **jovens que estão procurando o primeiro emprego** sobre documentos, trabalho e direitos básicos, sempre mostrando a fonte oficial, a data de verificação e o aviso de que não é um canal oficial.
